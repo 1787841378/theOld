@@ -1,0 +1,204 @@
+
+.start{
+	height: 200px;
+	background-color: #6cf;
+	
+}
+
+.start .mffyg{
+	position: relative;
+	top:30px;
+	left:30px;
+	width:150px;
+}
+
+.start .h1{
+	position: relative;
+	top:-150px;
+	left: 500px;
+	width:700px;
+	font-family: Microsoft Yahei;
+	font-weight: 600;
+	font-size: 100px;
+
+}
+
+.start #nav{
+	position: absolute;
+	top: 150px;
+	left: 1450px;
+	text-align: center;
+	height: 30px;
+	width: 200px;
+}
+
+.start #nav .a_li{
+	height: 30px;
+	width: 45px;
+	line-height: 30px;
+	border: 1px solid #FF8000;
+	border-radius: 15px;
+	background-color: #2ee;
+}  
+.start #nav .a_li:hover{
+	background-color: #FF8000;
+}
+
+.start #nav .a_li::after{
+	content: "";
+	display: block;
+	clear: both;
+}
+.start #writer{
+	position: relative;
+	top: -200px;
+	left: 1500px;
+	font-weight: 600;
+}
+
+.rubiks_cube{
+	position: absolute;
+	top: 240px;
+	left: 1300px;
+}
+
+.text{
+	position: relative;
+	top:30px;
+	left: 20px;
+}
+
+.sanjie_img{
+	position: relative;
+	top: 10px;
+
+}
+
+.text .color .color-note{
+	position: relative;
+	top: -180px;
+	left: 350px;
+	font-size: 30px;
+	width:700px;
+	
+	
+}
+
+.text .color .sanjie3{
+	position: relative;
+	top:-70px;
+	left:20px;
+	height: 300px;
+
+}
+
+.text .color .demo1,
+			 .demo2,
+			 .demo3{		 	
+
+	font-size:30px;
+
+
+}
+.text .color .demo{
+	position: absolute;
+	top: 360px;
+	left: 500px;
+	width: 800px;
+}
+.text .color .demo .demo1{
+	top: 400px;
+}
+
+.text .color .demo .demo2{
+	top: 480px;
+}
+
+.text .color .demo .demo3{
+	top: 590px;
+}
+
+.formula{
+	height: 500px;
+
+}
+
+.text .formula .sanjie4{
+	position: relative;
+	top: 30px;
+	left: 30px;
+	height: 300px;
+}
+
+.text .formula .formula_text{
+	position: relative;
+	top:-230px;
+	left:400px;
+	font-size: 28px;
+
+
+}
+
+.text .formula .formula_explain{
+	position: relative;
+	top:-450px;
+	left:650px;
+	width:900px;
+	font-size: 28px;
+
+
+}
+
+.text .main_body{
+	position: relative;
+	/*top: -350px;*/
+
+}
+
+.text .main_body .important{
+	position: relative;
+	top: 30px;
+	left: 90px;
+	font-size: 28px;
+	width: 1000px;
+
+}
+
+.text .main_body .wreppar{
+	height: 300px;
+	width: 1000px;
+}
+
+.text .main_body .sanjie5{
+	position: relative;
+	top: 70px;
+	left: 60px;
+	/*width: 600px;*/
+	height: 300px;
+
+}
+
+.demo{
+	position: relative;
+	top: -192px;
+	left:620px;
+	
+}
+
+.text .main_body .wreppar .demo1,
+.text .main_body .wreppar .demo2,
+.text .main_body .wreppar .demo3{
+	margin-top: 30px;
+	margin-bottom: 30px;
+	font-size:28px;
+
+}
+
+.text .main_body .wreppar .note{
+	position: relative;
+	top: -380px;
+	left: 750px;
+	font-size: 28px;
+	width: 395px;
+	height: ;
+}
